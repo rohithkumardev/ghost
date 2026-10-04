@@ -1,0 +1,10 @@
+{
+  "description": "This offline supervisory analytics tool empowers examiners to identify execution gaps and missing evidence in SOC assessments, enhancing oversight for critical infrastructure entities.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
